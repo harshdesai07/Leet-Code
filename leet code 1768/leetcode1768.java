@@ -17,3 +17,4 @@ public class leetcode1768 {
         System.out.println(mergedWord);
     }
 }
+
