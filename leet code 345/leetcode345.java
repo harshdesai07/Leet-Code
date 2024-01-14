@@ -1,5 +1,3 @@
-import java.util.*;;
-
 public class leetcode345 {
         public static String reverseVowels(String s) {
             char[] word = s.toCharArray();

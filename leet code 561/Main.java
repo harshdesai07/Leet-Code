@@ -13,7 +13,7 @@ public class Main{
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+
 
         int[] arr = {2,9,5,4,2,7};
 
