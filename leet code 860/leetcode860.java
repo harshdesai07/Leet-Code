@@ -40,8 +40,9 @@ public class leetcode860 {
 
     public static void main(String[] args) {
         int arr[] = {5,5,5,10,20,10,5};
+        boolean ans = lemonadeChange(arr);
 
-        System.out.println(lemonadeChange(arr));
+        System.out.println(ans);
     }
 
 }
