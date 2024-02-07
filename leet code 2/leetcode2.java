@@ -38,6 +38,5 @@ public class leetcode2{
         dummy.next = null; //break the connection of dummy node with the original ans
 
         return ans;
-
     }
 }
